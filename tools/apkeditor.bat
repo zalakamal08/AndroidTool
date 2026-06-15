@@ -1,1 +1,0 @@
-java -jar C:\\Tools\\Android\\APKEditor.jar %*

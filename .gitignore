@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller build output
+build/
+dist/
+
+# Runtime-downloaded Frida server binaries
+tools/frida/
+
+# Generated files
+trees.json
